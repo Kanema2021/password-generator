@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Password Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Password Generator</h1>
+    </header>
+    <div class="card">
+      <div class="card-header">
+        <h2>Generate a Password</h2>
+      </div>
+      <form id="password-generator-form" class="character-choices">
+        <label for="howManyCharacters">Choose a number between 8 and 128</label>
+        <input type ="number" id="numberOfChars" min="8" max="128">
+        
+        <label for="includeUppercase">Include Uppercase</label>
+        <input type="checkbox" id="uppercase">
+
+        <label for="includeLowercase">Include Lowercase</label>
+        <input type="checkbox" id="lowercase">
+
+        <label for="includeNumbers">Include Numbers</label>
+        <input type="checkbox" id="numbers">
+
+        <label for="includeSymbols">Include Symbols</label>
+        <input type="checkbox" id="symbols">
+      </form>
+
+      <div class="card-footer">
+        <button type="submit" id="generate" class="btn">Generate Password</button>
+      </div>
+
+      <div>
+        <label for="finalPassword">Password</label>
+       <div><input type="text" id="password"></div>
+      </div>
+      
+
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
