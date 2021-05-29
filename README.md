@@ -1,7 +1,6 @@
 # password-generator
 
-GIVEN I need a new, secure password
-GIVEN I need a new, secure password between 8 and 128
+GIVEN I need a new, secure password with between 8 and 128 characters
 When I enter a number that is below 28 or above 128 
 Then I am met with a prompt to input the correct number of characters
 When I am presented with a series of checkboxes for password criteria
