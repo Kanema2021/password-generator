@@ -14,5 +14,11 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is is displayed in a text box
 
+https://github.com/Kanema2021/password-generator.git
+https://www.bootcampspot.com/coursework/106316/submit
+
+
+
+
 ```
 
