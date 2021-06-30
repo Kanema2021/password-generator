@@ -17,6 +17,9 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is is displayed in a text box
 
+![Screen Shot 2021-06-29 at 10 22 06 PM](https://user-images.githubusercontent.com/82725636/123906852-c52ed780-d929-11eb-8266-97d610ea6336.png)
+
+
 <img width="463" alt="Screen Shot 2021-06-29 at 6 37 02 PM" src="https://user-images.githubusercontent.com/82725636/123905358-0bcf0280-d927-11eb-8c68-fc4cebcffd6a.png">
 
 
