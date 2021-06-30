@@ -26,6 +26,7 @@ THEN the password is is displayed in a text box
 
 https://github.com/Kanema2021/password-generator.git
 https://www.bootcampspot.com/coursework/106316/submit
+https://www.linkedin.com/in/karen-marting-376a25a/
 
 Copyright <2021> <kanema2021>
 
