@@ -1,6 +1,6 @@
 
 
-
+The purpose of this project is to enable emplyees to generate a random password based on specific criteria that they select. The chosen password should include special characters. 
 
 
 GIVEN I need a new, secure password with between 8 and 128 characters
@@ -17,6 +17,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is is displayed in a text box
 
+<img width="463" alt="Screen Shot 2021-06-29 at 6 37 02 PM" src="https://user-images.githubusercontent.com/82725636/123905358-0bcf0280-d927-11eb-8c68-fc4cebcffd6a.png">
+
 
 
 https://github.com/Kanema2021/password-generator.git
@@ -30,6 +32,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+  
 
 
 
